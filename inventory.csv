@@ -1,3 +1,4 @@
 ttu_inventory_tag,computer_name,operating_system,model_no,bit_system,cpu_ghz,domain?,ram,hdd_size,building,room_no,ip,remote_access?,no_profile_folders,local_account?,any_problems?
 266743,BIOL10D,win7ent,Optiplex960,64,2.83,yes,3/3,63.5/111,biol,505,129.118.42.39,yes,10,yes
 283604,BIOL023,win7ent,Optiplex7010,64,3.4,yes,4/3.89,no_hdd?,biol,023,129.118.42.103,yes,2,yes
+260732,BIOL022E,win7ent,Optiplex755,32,2.33,yes,3/3,no_hdd?,biol,022,129.118.42.225,yes,1,yes
