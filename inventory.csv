@@ -15,4 +15,5 @@ ttu_inventory_tag,computer_name,operating_system,model_no,bit_system,cpu_ghz,dom
 258891,biol015a,win7ent,Optiplex745,64,1.86,yes,2/2,80/148,biol,015,129.118.42.82,yes,1Gbps,10,yes
 260830,biol017a,win7ent,Optiplex755,64,2.33,yes,2/2,5.17/74.4,biol,017,129.118.42.205,yes,1Gbps,37,yes
 271545,biol11c,win7ent,Optiplex960,32,2.83,yes,3/3,142/232,biol,011,129.118.119.236,yes,1Gbps,15,yes
-283614,BIOLLH100,win7pro,Optiplex9010,64,3.4,yes,4/3.89,142/223,biol,LH100,129.118.42.139,100Mbps,73,yes
+283614,BIOLLH100,win7pro,Optiplex9010,64,3.4,yes,4/3.89,142/223,biol,LH100,129.118.42.139,yes,100Mbps,73,yes
+271541,biol9c,win7ent,Optiplex960,32,2.83,yes,3/3,173/232,biol,009,129.118.42.94,yes,1Gbps,14,yes
